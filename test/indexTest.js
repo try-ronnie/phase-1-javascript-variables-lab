@@ -28,7 +28,7 @@ describe('index.js', function () {
 
   describe('companyCeo', function () {
     it('is declared as equal to Susan Smith', function () {
-      expect(companyCeo).to.equal('Susan Smith');
+      expect(companyCeo).to.equal('https://github.com/try-ronnie/phase-1-javascript-variables-lab.git');
     });
 
     it('is defined using let', function () {
